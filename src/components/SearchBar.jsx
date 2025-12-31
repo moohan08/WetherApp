@@ -34,7 +34,7 @@ const SearchBar = ({ onSearch }) => {
           type="submit"
           className="px-8 py-4 bg-gradient-to-r from-pink-500 via-purple-500 to-indigo-500 text-white font-bold rounded-xl transition-all duration-300 shadow-lg hover:shadow-xl hover:shadow-purple-500/50 hover:scale-105 focus:outline-none focus:ring-2 focus:ring-white/50 focus:ring-offset-2 focus:ring-offset-transparent transform hover:-translate-y-0.5"
         >
-          Search
+          Search by city name
         </button>
       </div>
     </form>
